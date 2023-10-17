@@ -1,0 +1,23 @@
+{
+  "name": "data-desensitization",
+  "version": "0.0.1-develop",
+  "description": "A set of data desensitization utilities",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitkimi/data-desensitization-utils.git"
+  },
+  "keywords": [
+    "data",
+    "desensitization"
+  ],
+  "author": "mitkimi <i@mitkimi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitkimi/data-desensitization-utils/issues"
+  },
+  "homepage": "https://github.com/mitkimi/data-desensitization-utils#readme"
+}
