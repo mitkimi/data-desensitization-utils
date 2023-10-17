@@ -1,6 +1,6 @@
 # 数据脱敏工具集
 
-> version 0.0.8-develop 
+> version 0.1.0-develop 
 > 更新日期：Oct. 17, 2023
 
 [English](./README.md)
