@@ -1,6 +1,6 @@
 # DATA DESNSITIZATION
 
-> version 0.0.7-develop
+> version 0.0.8develop
 > updated at: Oct. 17, 2023
 
 [中文](./README.zh-cn.md)

@@ -1,11 +1,11 @@
 {
   "name": "data-desensitization",
-  "version": "0.0.7-develop",
+  "version": "0.0.8-develop",
   "description": "A set of data desensitization utilities",
   "main": "./src/index.js",
   "type": "module",
   "scripts": {
-    "test": "node ./src/index.js"
+    "test": "node ./testing/index.js"
   },
   "repository": {
     "type": "git",
