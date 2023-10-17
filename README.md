@@ -1,7 +1,9 @@
 # DATA DESNSITIZATION
 
-> version 0.0.1-develop
+> version 0.0.7-develop
 > updated at: Oct. 17, 2023
+
+[中文](./README.zh-cn.md)
 
 ## intro
 This is a set of data desensitization utilities, including kinds of showing data but should not show the full datas. These utilities can be used at FE or BE projects which developed by TypeScript or JavaScript.

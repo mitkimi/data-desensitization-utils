@@ -1,7 +1,9 @@
 # 数据脱敏工具集
 
-> version 0.0.1-develop 
+> version 0.0.7-develop 
 > 更新日期：Oct. 17, 2023
+
+[English](./README.md)
 
 ## 简介
 这是一个用于数据脱敏的工具集，包含了常见的需要用以展示脱敏数据场景的情况。可以使用在 typescript 或者 javascript 开发的前端/后端项目中。
